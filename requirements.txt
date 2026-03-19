@@ -1,0 +1,27 @@
+aiofiles
+aiohttp
+beautifulsoup4
+dnspython
+ffmpeg-python
+gitpython
+hachoir
+httpx
+motor
+numpy
+pillow
+psutil
+py-tgcalls
+pytgcrypto
+kurigram==2.1.35
+python-dotenv
+pyyaml
+requests
+speedtest-cli
+spotipy
+unidecode
+uvloop==0.21.0; sys_platform != "win32"
+yt-dlp
+youtube-search
+youtube-search-python
+py-yt-search
+apscheduler
